@@ -1,0 +1,14 @@
+D:\Иван не пипай !\C# SoftUni\01.FirstStepInCoding\03.RectangleArea\obj\Debug\netcoreapp3.1\03.RectangleArea.csproj.AssemblyReference.cache
+D:\Иван не пипай !\C# SoftUni\01.FirstStepInCoding\03.RectangleArea\obj\Debug\netcoreapp3.1\03.RectangleArea.GeneratedMSBuildEditorConfig.editorconfig
+D:\Иван не пипай !\C# SoftUni\01.FirstStepInCoding\03.RectangleArea\obj\Debug\netcoreapp3.1\03.RectangleArea.AssemblyInfoInputs.cache
+D:\Иван не пипай !\C# SoftUni\01.FirstStepInCoding\03.RectangleArea\obj\Debug\netcoreapp3.1\03.RectangleArea.AssemblyInfo.cs
+D:\Иван не пипай !\C# SoftUni\01.FirstStepInCoding\03.RectangleArea\obj\Debug\netcoreapp3.1\03.RectangleArea.csproj.CoreCompileInputs.cache
+D:\Иван не пипай !\C# SoftUni\01.FirstStepInCoding\03.RectangleArea\bin\Debug\netcoreapp3.1\03.RectangleArea.exe
+D:\Иван не пипай !\C# SoftUni\01.FirstStepInCoding\03.RectangleArea\bin\Debug\netcoreapp3.1\03.RectangleArea.deps.json
+D:\Иван не пипай !\C# SoftUni\01.FirstStepInCoding\03.RectangleArea\bin\Debug\netcoreapp3.1\03.RectangleArea.runtimeconfig.json
+D:\Иван не пипай !\C# SoftUni\01.FirstStepInCoding\03.RectangleArea\bin\Debug\netcoreapp3.1\03.RectangleArea.runtimeconfig.dev.json
+D:\Иван не пипай !\C# SoftUni\01.FirstStepInCoding\03.RectangleArea\bin\Debug\netcoreapp3.1\03.RectangleArea.dll
+D:\Иван не пипай !\C# SoftUni\01.FirstStepInCoding\03.RectangleArea\bin\Debug\netcoreapp3.1\03.RectangleArea.pdb
+D:\Иван не пипай !\C# SoftUni\01.FirstStepInCoding\03.RectangleArea\obj\Debug\netcoreapp3.1\03.RectangleArea.dll
+D:\Иван не пипай !\C# SoftUni\01.FirstStepInCoding\03.RectangleArea\obj\Debug\netcoreapp3.1\03.RectangleArea.pdb
+D:\Иван не пипай !\C# SoftUni\01.FirstStepInCoding\03.RectangleArea\obj\Debug\netcoreapp3.1\03.RectangleArea.genruntimeconfig.cache

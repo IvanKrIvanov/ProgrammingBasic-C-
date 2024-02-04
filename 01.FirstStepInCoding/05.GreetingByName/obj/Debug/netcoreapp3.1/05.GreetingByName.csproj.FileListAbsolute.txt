@@ -1,0 +1,14 @@
+D:\Иван не пипай !\C# SoftUni\01.FirstStepInCoding\05.GreetingByName\bin\Debug\netcoreapp3.1\05.GreetingByName.exe
+D:\Иван не пипай !\C# SoftUni\01.FirstStepInCoding\05.GreetingByName\bin\Debug\netcoreapp3.1\05.GreetingByName.deps.json
+D:\Иван не пипай !\C# SoftUni\01.FirstStepInCoding\05.GreetingByName\bin\Debug\netcoreapp3.1\05.GreetingByName.runtimeconfig.json
+D:\Иван не пипай !\C# SoftUni\01.FirstStepInCoding\05.GreetingByName\bin\Debug\netcoreapp3.1\05.GreetingByName.runtimeconfig.dev.json
+D:\Иван не пипай !\C# SoftUni\01.FirstStepInCoding\05.GreetingByName\bin\Debug\netcoreapp3.1\05.GreetingByName.dll
+D:\Иван не пипай !\C# SoftUni\01.FirstStepInCoding\05.GreetingByName\bin\Debug\netcoreapp3.1\05.GreetingByName.pdb
+D:\Иван не пипай !\C# SoftUni\01.FirstStepInCoding\05.GreetingByName\obj\Debug\netcoreapp3.1\05.GreetingByName.csproj.AssemblyReference.cache
+D:\Иван не пипай !\C# SoftUni\01.FirstStepInCoding\05.GreetingByName\obj\Debug\netcoreapp3.1\05.GreetingByName.GeneratedMSBuildEditorConfig.editorconfig
+D:\Иван не пипай !\C# SoftUni\01.FirstStepInCoding\05.GreetingByName\obj\Debug\netcoreapp3.1\05.GreetingByName.AssemblyInfoInputs.cache
+D:\Иван не пипай !\C# SoftUni\01.FirstStepInCoding\05.GreetingByName\obj\Debug\netcoreapp3.1\05.GreetingByName.AssemblyInfo.cs
+D:\Иван не пипай !\C# SoftUni\01.FirstStepInCoding\05.GreetingByName\obj\Debug\netcoreapp3.1\05.GreetingByName.csproj.CoreCompileInputs.cache
+D:\Иван не пипай !\C# SoftUni\01.FirstStepInCoding\05.GreetingByName\obj\Debug\netcoreapp3.1\05.GreetingByName.dll
+D:\Иван не пипай !\C# SoftUni\01.FirstStepInCoding\05.GreetingByName\obj\Debug\netcoreapp3.1\05.GreetingByName.pdb
+D:\Иван не пипай !\C# SoftUni\01.FirstStepInCoding\05.GreetingByName\obj\Debug\netcoreapp3.1\05.GreetingByName.genruntimeconfig.cache

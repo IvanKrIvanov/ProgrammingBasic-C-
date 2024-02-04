@@ -1,0 +1,14 @@
+D:\Иван не пипай !\C# SoftUni\01.FirstStepInCoding\04.InchesToCentimeters\bin\Debug\netcoreapp3.1\04.InchesToCentimeters.exe
+D:\Иван не пипай !\C# SoftUni\01.FirstStepInCoding\04.InchesToCentimeters\bin\Debug\netcoreapp3.1\04.InchesToCentimeters.deps.json
+D:\Иван не пипай !\C# SoftUni\01.FirstStepInCoding\04.InchesToCentimeters\bin\Debug\netcoreapp3.1\04.InchesToCentimeters.runtimeconfig.json
+D:\Иван не пипай !\C# SoftUni\01.FirstStepInCoding\04.InchesToCentimeters\bin\Debug\netcoreapp3.1\04.InchesToCentimeters.runtimeconfig.dev.json
+D:\Иван не пипай !\C# SoftUni\01.FirstStepInCoding\04.InchesToCentimeters\bin\Debug\netcoreapp3.1\04.InchesToCentimeters.dll
+D:\Иван не пипай !\C# SoftUni\01.FirstStepInCoding\04.InchesToCentimeters\bin\Debug\netcoreapp3.1\04.InchesToCentimeters.pdb
+D:\Иван не пипай !\C# SoftUni\01.FirstStepInCoding\04.InchesToCentimeters\obj\Debug\netcoreapp3.1\04.InchesToCentimeters.csproj.AssemblyReference.cache
+D:\Иван не пипай !\C# SoftUni\01.FirstStepInCoding\04.InchesToCentimeters\obj\Debug\netcoreapp3.1\04.InchesToCentimeters.GeneratedMSBuildEditorConfig.editorconfig
+D:\Иван не пипай !\C# SoftUni\01.FirstStepInCoding\04.InchesToCentimeters\obj\Debug\netcoreapp3.1\04.InchesToCentimeters.AssemblyInfoInputs.cache
+D:\Иван не пипай !\C# SoftUni\01.FirstStepInCoding\04.InchesToCentimeters\obj\Debug\netcoreapp3.1\04.InchesToCentimeters.AssemblyInfo.cs
+D:\Иван не пипай !\C# SoftUni\01.FirstStepInCoding\04.InchesToCentimeters\obj\Debug\netcoreapp3.1\04.InchesToCentimeters.csproj.CoreCompileInputs.cache
+D:\Иван не пипай !\C# SoftUni\01.FirstStepInCoding\04.InchesToCentimeters\obj\Debug\netcoreapp3.1\04.InchesToCentimeters.dll
+D:\Иван не пипай !\C# SoftUni\01.FirstStepInCoding\04.InchesToCentimeters\obj\Debug\netcoreapp3.1\04.InchesToCentimeters.pdb
+D:\Иван не пипай !\C# SoftUni\01.FirstStepInCoding\04.InchesToCentimeters\obj\Debug\netcoreapp3.1\04.InchesToCentimeters.genruntimeconfig.cache

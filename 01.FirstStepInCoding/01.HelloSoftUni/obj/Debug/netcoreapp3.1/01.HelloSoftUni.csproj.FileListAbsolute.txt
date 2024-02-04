@@ -1,0 +1,14 @@
+D:\Иван не пипай !\C# SoftUni\01.FirstStepInCoding\01.HelloSoftUni\bin\Debug\netcoreapp3.1\01.HelloSoftUni.exe
+D:\Иван не пипай !\C# SoftUni\01.FirstStepInCoding\01.HelloSoftUni\bin\Debug\netcoreapp3.1\01.HelloSoftUni.deps.json
+D:\Иван не пипай !\C# SoftUni\01.FirstStepInCoding\01.HelloSoftUni\bin\Debug\netcoreapp3.1\01.HelloSoftUni.runtimeconfig.json
+D:\Иван не пипай !\C# SoftUni\01.FirstStepInCoding\01.HelloSoftUni\bin\Debug\netcoreapp3.1\01.HelloSoftUni.runtimeconfig.dev.json
+D:\Иван не пипай !\C# SoftUni\01.FirstStepInCoding\01.HelloSoftUni\bin\Debug\netcoreapp3.1\01.HelloSoftUni.dll
+D:\Иван не пипай !\C# SoftUni\01.FirstStepInCoding\01.HelloSoftUni\bin\Debug\netcoreapp3.1\01.HelloSoftUni.pdb
+D:\Иван не пипай !\C# SoftUni\01.FirstStepInCoding\01.HelloSoftUni\obj\Debug\netcoreapp3.1\01.HelloSoftUni.csproj.AssemblyReference.cache
+D:\Иван не пипай !\C# SoftUni\01.FirstStepInCoding\01.HelloSoftUni\obj\Debug\netcoreapp3.1\01.HelloSoftUni.GeneratedMSBuildEditorConfig.editorconfig
+D:\Иван не пипай !\C# SoftUni\01.FirstStepInCoding\01.HelloSoftUni\obj\Debug\netcoreapp3.1\01.HelloSoftUni.AssemblyInfoInputs.cache
+D:\Иван не пипай !\C# SoftUni\01.FirstStepInCoding\01.HelloSoftUni\obj\Debug\netcoreapp3.1\01.HelloSoftUni.AssemblyInfo.cs
+D:\Иван не пипай !\C# SoftUni\01.FirstStepInCoding\01.HelloSoftUni\obj\Debug\netcoreapp3.1\01.HelloSoftUni.csproj.CoreCompileInputs.cache
+D:\Иван не пипай !\C# SoftUni\01.FirstStepInCoding\01.HelloSoftUni\obj\Debug\netcoreapp3.1\01.HelloSoftUni.dll
+D:\Иван не пипай !\C# SoftUni\01.FirstStepInCoding\01.HelloSoftUni\obj\Debug\netcoreapp3.1\01.HelloSoftUni.pdb
+D:\Иван не пипай !\C# SoftUni\01.FirstStepInCoding\01.HelloSoftUni\obj\Debug\netcoreapp3.1\01.HelloSoftUni.genruntimeconfig.cache
