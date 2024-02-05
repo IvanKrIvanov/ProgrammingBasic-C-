@@ -1,0 +1,14 @@
+D:\Иван не пипай !\C# SoftUni\02.ExercisesFirstStepInCoding\02.ExerciseFirstStepsInCoding\01.USDtoBGN\bin\Debug\netcoreapp3.1\01.USDtoBGN.exe
+D:\Иван не пипай !\C# SoftUni\02.ExercisesFirstStepInCoding\02.ExerciseFirstStepsInCoding\01.USDtoBGN\bin\Debug\netcoreapp3.1\01.USDtoBGN.deps.json
+D:\Иван не пипай !\C# SoftUni\02.ExercisesFirstStepInCoding\02.ExerciseFirstStepsInCoding\01.USDtoBGN\bin\Debug\netcoreapp3.1\01.USDtoBGN.runtimeconfig.json
+D:\Иван не пипай !\C# SoftUni\02.ExercisesFirstStepInCoding\02.ExerciseFirstStepsInCoding\01.USDtoBGN\bin\Debug\netcoreapp3.1\01.USDtoBGN.runtimeconfig.dev.json
+D:\Иван не пипай !\C# SoftUni\02.ExercisesFirstStepInCoding\02.ExerciseFirstStepsInCoding\01.USDtoBGN\bin\Debug\netcoreapp3.1\01.USDtoBGN.dll
+D:\Иван не пипай !\C# SoftUni\02.ExercisesFirstStepInCoding\02.ExerciseFirstStepsInCoding\01.USDtoBGN\bin\Debug\netcoreapp3.1\01.USDtoBGN.pdb
+D:\Иван не пипай !\C# SoftUni\02.ExercisesFirstStepInCoding\02.ExerciseFirstStepsInCoding\01.USDtoBGN\obj\Debug\netcoreapp3.1\01.USDtoBGN.csproj.AssemblyReference.cache
+D:\Иван не пипай !\C# SoftUni\02.ExercisesFirstStepInCoding\02.ExerciseFirstStepsInCoding\01.USDtoBGN\obj\Debug\netcoreapp3.1\01.USDtoBGN.GeneratedMSBuildEditorConfig.editorconfig
+D:\Иван не пипай !\C# SoftUni\02.ExercisesFirstStepInCoding\02.ExerciseFirstStepsInCoding\01.USDtoBGN\obj\Debug\netcoreapp3.1\01.USDtoBGN.AssemblyInfoInputs.cache
+D:\Иван не пипай !\C# SoftUni\02.ExercisesFirstStepInCoding\02.ExerciseFirstStepsInCoding\01.USDtoBGN\obj\Debug\netcoreapp3.1\01.USDtoBGN.AssemblyInfo.cs
+D:\Иван не пипай !\C# SoftUni\02.ExercisesFirstStepInCoding\02.ExerciseFirstStepsInCoding\01.USDtoBGN\obj\Debug\netcoreapp3.1\01.USDtoBGN.csproj.CoreCompileInputs.cache
+D:\Иван не пипай !\C# SoftUni\02.ExercisesFirstStepInCoding\02.ExerciseFirstStepsInCoding\01.USDtoBGN\obj\Debug\netcoreapp3.1\01.USDtoBGN.dll
+D:\Иван не пипай !\C# SoftUni\02.ExercisesFirstStepInCoding\02.ExerciseFirstStepsInCoding\01.USDtoBGN\obj\Debug\netcoreapp3.1\01.USDtoBGN.pdb
+D:\Иван не пипай !\C# SoftUni\02.ExercisesFirstStepInCoding\02.ExerciseFirstStepsInCoding\01.USDtoBGN\obj\Debug\netcoreapp3.1\01.USDtoBGN.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\Иван не пипай !\C# SoftUni\02.ExercisesFirstStepInCoding\02.ExerciseFirstStepsInCoding\02.RadianstoDegrees\bin\Debug\netcoreapp3.1\02.RadianstoDegrees.exe
+D:\Иван не пипай !\C# SoftUni\02.ExercisesFirstStepInCoding\02.ExerciseFirstStepsInCoding\02.RadianstoDegrees\bin\Debug\netcoreapp3.1\02.RadianstoDegrees.deps.json
+D:\Иван не пипай !\C# SoftUni\02.ExercisesFirstStepInCoding\02.ExerciseFirstStepsInCoding\02.RadianstoDegrees\bin\Debug\netcoreapp3.1\02.RadianstoDegrees.runtimeconfig.json
+D:\Иван не пипай !\C# SoftUni\02.ExercisesFirstStepInCoding\02.ExerciseFirstStepsInCoding\02.RadianstoDegrees\bin\Debug\netcoreapp3.1\02.RadianstoDegrees.runtimeconfig.dev.json
+D:\Иван не пипай !\C# SoftUni\02.ExercisesFirstStepInCoding\02.ExerciseFirstStepsInCoding\02.RadianstoDegrees\bin\Debug\netcoreapp3.1\02.RadianstoDegrees.dll
+D:\Иван не пипай !\C# SoftUni\02.ExercisesFirstStepInCoding\02.ExerciseFirstStepsInCoding\02.RadianstoDegrees\bin\Debug\netcoreapp3.1\02.RadianstoDegrees.pdb
+D:\Иван не пипай !\C# SoftUni\02.ExercisesFirstStepInCoding\02.ExerciseFirstStepsInCoding\02.RadianstoDegrees\obj\Debug\netcoreapp3.1\02.RadianstoDegrees.csproj.AssemblyReference.cache
+D:\Иван не пипай !\C# SoftUni\02.ExercisesFirstStepInCoding\02.ExerciseFirstStepsInCoding\02.RadianstoDegrees\obj\Debug\netcoreapp3.1\02.RadianstoDegrees.GeneratedMSBuildEditorConfig.editorconfig
+D:\Иван не пипай !\C# SoftUni\02.ExercisesFirstStepInCoding\02.ExerciseFirstStepsInCoding\02.RadianstoDegrees\obj\Debug\netcoreapp3.1\02.RadianstoDegrees.AssemblyInfoInputs.cache
+D:\Иван не пипай !\C# SoftUni\02.ExercisesFirstStepInCoding\02.ExerciseFirstStepsInCoding\02.RadianstoDegrees\obj\Debug\netcoreapp3.1\02.RadianstoDegrees.AssemblyInfo.cs
+D:\Иван не пипай !\C# SoftUni\02.ExercisesFirstStepInCoding\02.ExerciseFirstStepsInCoding\02.RadianstoDegrees\obj\Debug\netcoreapp3.1\02.RadianstoDegrees.csproj.CoreCompileInputs.cache
+D:\Иван не пипай !\C# SoftUni\02.ExercisesFirstStepInCoding\02.ExerciseFirstStepsInCoding\02.RadianstoDegrees\obj\Debug\netcoreapp3.1\02.RadianstoDegrees.dll
+D:\Иван не пипай !\C# SoftUni\02.ExercisesFirstStepInCoding\02.ExerciseFirstStepsInCoding\02.RadianstoDegrees\obj\Debug\netcoreapp3.1\02.RadianstoDegrees.pdb
+D:\Иван не пипай !\C# SoftUni\02.ExercisesFirstStepInCoding\02.ExerciseFirstStepsInCoding\02.RadianstoDegrees\obj\Debug\netcoreapp3.1\02.RadianstoDegrees.genruntimeconfig.cache

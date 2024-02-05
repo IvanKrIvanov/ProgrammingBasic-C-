@@ -1,0 +1,14 @@
+D:\Иван не пипай !\C# SoftUni\02.ExercisesFirstStepInCoding\02.ExerciseFirstStepsInCoding\04.VacationBooksList\bin\Debug\netcoreapp3.1\04.VacationBooksList.exe
+D:\Иван не пипай !\C# SoftUni\02.ExercisesFirstStepInCoding\02.ExerciseFirstStepsInCoding\04.VacationBooksList\bin\Debug\netcoreapp3.1\04.VacationBooksList.deps.json
+D:\Иван не пипай !\C# SoftUni\02.ExercisesFirstStepInCoding\02.ExerciseFirstStepsInCoding\04.VacationBooksList\bin\Debug\netcoreapp3.1\04.VacationBooksList.runtimeconfig.json
+D:\Иван не пипай !\C# SoftUni\02.ExercisesFirstStepInCoding\02.ExerciseFirstStepsInCoding\04.VacationBooksList\bin\Debug\netcoreapp3.1\04.VacationBooksList.runtimeconfig.dev.json
+D:\Иван не пипай !\C# SoftUni\02.ExercisesFirstStepInCoding\02.ExerciseFirstStepsInCoding\04.VacationBooksList\bin\Debug\netcoreapp3.1\04.VacationBooksList.dll
+D:\Иван не пипай !\C# SoftUni\02.ExercisesFirstStepInCoding\02.ExerciseFirstStepsInCoding\04.VacationBooksList\bin\Debug\netcoreapp3.1\04.VacationBooksList.pdb
+D:\Иван не пипай !\C# SoftUni\02.ExercisesFirstStepInCoding\02.ExerciseFirstStepsInCoding\04.VacationBooksList\obj\Debug\netcoreapp3.1\04.VacationBooksList.csproj.AssemblyReference.cache
+D:\Иван не пипай !\C# SoftUni\02.ExercisesFirstStepInCoding\02.ExerciseFirstStepsInCoding\04.VacationBooksList\obj\Debug\netcoreapp3.1\04.VacationBooksList.GeneratedMSBuildEditorConfig.editorconfig
+D:\Иван не пипай !\C# SoftUni\02.ExercisesFirstStepInCoding\02.ExerciseFirstStepsInCoding\04.VacationBooksList\obj\Debug\netcoreapp3.1\04.VacationBooksList.AssemblyInfoInputs.cache
+D:\Иван не пипай !\C# SoftUni\02.ExercisesFirstStepInCoding\02.ExerciseFirstStepsInCoding\04.VacationBooksList\obj\Debug\netcoreapp3.1\04.VacationBooksList.AssemblyInfo.cs
+D:\Иван не пипай !\C# SoftUni\02.ExercisesFirstStepInCoding\02.ExerciseFirstStepsInCoding\04.VacationBooksList\obj\Debug\netcoreapp3.1\04.VacationBooksList.csproj.CoreCompileInputs.cache
+D:\Иван не пипай !\C# SoftUni\02.ExercisesFirstStepInCoding\02.ExerciseFirstStepsInCoding\04.VacationBooksList\obj\Debug\netcoreapp3.1\04.VacationBooksList.dll
+D:\Иван не пипай !\C# SoftUni\02.ExercisesFirstStepInCoding\02.ExerciseFirstStepsInCoding\04.VacationBooksList\obj\Debug\netcoreapp3.1\04.VacationBooksList.pdb
+D:\Иван не пипай !\C# SoftUni\02.ExercisesFirstStepInCoding\02.ExerciseFirstStepsInCoding\04.VacationBooksList\obj\Debug\netcoreapp3.1\04.VacationBooksList.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\Иван не пипай !\C# SoftUni\02.ExercisesFirstStepInCoding\02.ExerciseFirstStepsInCoding\03.DepositCalculator\bin\Debug\netcoreapp3.1\03.DepositCalculator.exe
+D:\Иван не пипай !\C# SoftUni\02.ExercisesFirstStepInCoding\02.ExerciseFirstStepsInCoding\03.DepositCalculator\bin\Debug\netcoreapp3.1\03.DepositCalculator.deps.json
+D:\Иван не пипай !\C# SoftUni\02.ExercisesFirstStepInCoding\02.ExerciseFirstStepsInCoding\03.DepositCalculator\bin\Debug\netcoreapp3.1\03.DepositCalculator.runtimeconfig.json
+D:\Иван не пипай !\C# SoftUni\02.ExercisesFirstStepInCoding\02.ExerciseFirstStepsInCoding\03.DepositCalculator\bin\Debug\netcoreapp3.1\03.DepositCalculator.runtimeconfig.dev.json
+D:\Иван не пипай !\C# SoftUni\02.ExercisesFirstStepInCoding\02.ExerciseFirstStepsInCoding\03.DepositCalculator\bin\Debug\netcoreapp3.1\03.DepositCalculator.dll
+D:\Иван не пипай !\C# SoftUni\02.ExercisesFirstStepInCoding\02.ExerciseFirstStepsInCoding\03.DepositCalculator\bin\Debug\netcoreapp3.1\03.DepositCalculator.pdb
+D:\Иван не пипай !\C# SoftUni\02.ExercisesFirstStepInCoding\02.ExerciseFirstStepsInCoding\03.DepositCalculator\obj\Debug\netcoreapp3.1\03.DepositCalculator.csproj.AssemblyReference.cache
+D:\Иван не пипай !\C# SoftUni\02.ExercisesFirstStepInCoding\02.ExerciseFirstStepsInCoding\03.DepositCalculator\obj\Debug\netcoreapp3.1\03.DepositCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Иван не пипай !\C# SoftUni\02.ExercisesFirstStepInCoding\02.ExerciseFirstStepsInCoding\03.DepositCalculator\obj\Debug\netcoreapp3.1\03.DepositCalculator.AssemblyInfoInputs.cache
+D:\Иван не пипай !\C# SoftUni\02.ExercisesFirstStepInCoding\02.ExerciseFirstStepsInCoding\03.DepositCalculator\obj\Debug\netcoreapp3.1\03.DepositCalculator.AssemblyInfo.cs
+D:\Иван не пипай !\C# SoftUni\02.ExercisesFirstStepInCoding\02.ExerciseFirstStepsInCoding\03.DepositCalculator\obj\Debug\netcoreapp3.1\03.DepositCalculator.csproj.CoreCompileInputs.cache
+D:\Иван не пипай !\C# SoftUni\02.ExercisesFirstStepInCoding\02.ExerciseFirstStepsInCoding\03.DepositCalculator\obj\Debug\netcoreapp3.1\03.DepositCalculator.dll
+D:\Иван не пипай !\C# SoftUni\02.ExercisesFirstStepInCoding\02.ExerciseFirstStepsInCoding\03.DepositCalculator\obj\Debug\netcoreapp3.1\03.DepositCalculator.pdb
+D:\Иван не пипай !\C# SoftUni\02.ExercisesFirstStepInCoding\02.ExerciseFirstStepsInCoding\03.DepositCalculator\obj\Debug\netcoreapp3.1\03.DepositCalculator.genruntimeconfig.cache
