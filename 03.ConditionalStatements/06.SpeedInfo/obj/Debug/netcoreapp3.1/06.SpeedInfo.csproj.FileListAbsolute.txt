@@ -1,0 +1,14 @@
+D:\Иван не пипай !\C# SoftUni\03.Conditional Statements\03.Conditional Statements\06.SpeedInfo\bin\Debug\netcoreapp3.1\06.SpeedInfo.exe
+D:\Иван не пипай !\C# SoftUni\03.Conditional Statements\03.Conditional Statements\06.SpeedInfo\bin\Debug\netcoreapp3.1\06.SpeedInfo.deps.json
+D:\Иван не пипай !\C# SoftUni\03.Conditional Statements\03.Conditional Statements\06.SpeedInfo\bin\Debug\netcoreapp3.1\06.SpeedInfo.runtimeconfig.json
+D:\Иван не пипай !\C# SoftUni\03.Conditional Statements\03.Conditional Statements\06.SpeedInfo\bin\Debug\netcoreapp3.1\06.SpeedInfo.runtimeconfig.dev.json
+D:\Иван не пипай !\C# SoftUni\03.Conditional Statements\03.Conditional Statements\06.SpeedInfo\bin\Debug\netcoreapp3.1\06.SpeedInfo.dll
+D:\Иван не пипай !\C# SoftUni\03.Conditional Statements\03.Conditional Statements\06.SpeedInfo\bin\Debug\netcoreapp3.1\06.SpeedInfo.pdb
+D:\Иван не пипай !\C# SoftUni\03.Conditional Statements\03.Conditional Statements\06.SpeedInfo\obj\Debug\netcoreapp3.1\06.SpeedInfo.csproj.AssemblyReference.cache
+D:\Иван не пипай !\C# SoftUni\03.Conditional Statements\03.Conditional Statements\06.SpeedInfo\obj\Debug\netcoreapp3.1\06.SpeedInfo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Иван не пипай !\C# SoftUni\03.Conditional Statements\03.Conditional Statements\06.SpeedInfo\obj\Debug\netcoreapp3.1\06.SpeedInfo.AssemblyInfoInputs.cache
+D:\Иван не пипай !\C# SoftUni\03.Conditional Statements\03.Conditional Statements\06.SpeedInfo\obj\Debug\netcoreapp3.1\06.SpeedInfo.AssemblyInfo.cs
+D:\Иван не пипай !\C# SoftUni\03.Conditional Statements\03.Conditional Statements\06.SpeedInfo\obj\Debug\netcoreapp3.1\06.SpeedInfo.csproj.CoreCompileInputs.cache
+D:\Иван не пипай !\C# SoftUni\03.Conditional Statements\03.Conditional Statements\06.SpeedInfo\obj\Debug\netcoreapp3.1\06.SpeedInfo.dll
+D:\Иван не пипай !\C# SoftUni\03.Conditional Statements\03.Conditional Statements\06.SpeedInfo\obj\Debug\netcoreapp3.1\06.SpeedInfo.pdb
+D:\Иван не пипай !\C# SoftUni\03.Conditional Statements\03.Conditional Statements\06.SpeedInfo\obj\Debug\netcoreapp3.1\06.SpeedInfo.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\Иван не пипай !\C# SoftUni\03.Conditional Statements\03.Conditional Statements\07.AreaOfFigures\bin\Debug\netcoreapp3.1\07.AreaOfFigures.exe
+D:\Иван не пипай !\C# SoftUni\03.Conditional Statements\03.Conditional Statements\07.AreaOfFigures\bin\Debug\netcoreapp3.1\07.AreaOfFigures.deps.json
+D:\Иван не пипай !\C# SoftUni\03.Conditional Statements\03.Conditional Statements\07.AreaOfFigures\bin\Debug\netcoreapp3.1\07.AreaOfFigures.runtimeconfig.json
+D:\Иван не пипай !\C# SoftUni\03.Conditional Statements\03.Conditional Statements\07.AreaOfFigures\bin\Debug\netcoreapp3.1\07.AreaOfFigures.runtimeconfig.dev.json
+D:\Иван не пипай !\C# SoftUni\03.Conditional Statements\03.Conditional Statements\07.AreaOfFigures\bin\Debug\netcoreapp3.1\07.AreaOfFigures.dll
+D:\Иван не пипай !\C# SoftUni\03.Conditional Statements\03.Conditional Statements\07.AreaOfFigures\bin\Debug\netcoreapp3.1\07.AreaOfFigures.pdb
+D:\Иван не пипай !\C# SoftUni\03.Conditional Statements\03.Conditional Statements\07.AreaOfFigures\obj\Debug\netcoreapp3.1\07.AreaOfFigures.csproj.AssemblyReference.cache
+D:\Иван не пипай !\C# SoftUni\03.Conditional Statements\03.Conditional Statements\07.AreaOfFigures\obj\Debug\netcoreapp3.1\07.AreaOfFigures.GeneratedMSBuildEditorConfig.editorconfig
+D:\Иван не пипай !\C# SoftUni\03.Conditional Statements\03.Conditional Statements\07.AreaOfFigures\obj\Debug\netcoreapp3.1\07.AreaOfFigures.AssemblyInfoInputs.cache
+D:\Иван не пипай !\C# SoftUni\03.Conditional Statements\03.Conditional Statements\07.AreaOfFigures\obj\Debug\netcoreapp3.1\07.AreaOfFigures.AssemblyInfo.cs
+D:\Иван не пипай !\C# SoftUni\03.Conditional Statements\03.Conditional Statements\07.AreaOfFigures\obj\Debug\netcoreapp3.1\07.AreaOfFigures.csproj.CoreCompileInputs.cache
+D:\Иван не пипай !\C# SoftUni\03.Conditional Statements\03.Conditional Statements\07.AreaOfFigures\obj\Debug\netcoreapp3.1\07.AreaOfFigures.dll
+D:\Иван не пипай !\C# SoftUni\03.Conditional Statements\03.Conditional Statements\07.AreaOfFigures\obj\Debug\netcoreapp3.1\07.AreaOfFigures.pdb
+D:\Иван не пипай !\C# SoftUni\03.Conditional Statements\03.Conditional Statements\07.AreaOfFigures\obj\Debug\netcoreapp3.1\07.AreaOfFigures.genruntimeconfig.cache

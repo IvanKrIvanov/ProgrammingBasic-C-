@@ -1,0 +1,14 @@
+D:\Иван не пипай !\C# SoftUni\03.Conditional Statements\03.Conditional Statements\01.ExcellentResult\bin\Debug\netcoreapp3.1\01.ExcellentResult.exe
+D:\Иван не пипай !\C# SoftUni\03.Conditional Statements\03.Conditional Statements\01.ExcellentResult\bin\Debug\netcoreapp3.1\01.ExcellentResult.deps.json
+D:\Иван не пипай !\C# SoftUni\03.Conditional Statements\03.Conditional Statements\01.ExcellentResult\bin\Debug\netcoreapp3.1\01.ExcellentResult.runtimeconfig.json
+D:\Иван не пипай !\C# SoftUni\03.Conditional Statements\03.Conditional Statements\01.ExcellentResult\bin\Debug\netcoreapp3.1\01.ExcellentResult.runtimeconfig.dev.json
+D:\Иван не пипай !\C# SoftUni\03.Conditional Statements\03.Conditional Statements\01.ExcellentResult\bin\Debug\netcoreapp3.1\01.ExcellentResult.dll
+D:\Иван не пипай !\C# SoftUni\03.Conditional Statements\03.Conditional Statements\01.ExcellentResult\bin\Debug\netcoreapp3.1\01.ExcellentResult.pdb
+D:\Иван не пипай !\C# SoftUni\03.Conditional Statements\03.Conditional Statements\01.ExcellentResult\obj\Debug\netcoreapp3.1\01.ExcellentResult.csproj.AssemblyReference.cache
+D:\Иван не пипай !\C# SoftUni\03.Conditional Statements\03.Conditional Statements\01.ExcellentResult\obj\Debug\netcoreapp3.1\01.ExcellentResult.GeneratedMSBuildEditorConfig.editorconfig
+D:\Иван не пипай !\C# SoftUni\03.Conditional Statements\03.Conditional Statements\01.ExcellentResult\obj\Debug\netcoreapp3.1\01.ExcellentResult.AssemblyInfoInputs.cache
+D:\Иван не пипай !\C# SoftUni\03.Conditional Statements\03.Conditional Statements\01.ExcellentResult\obj\Debug\netcoreapp3.1\01.ExcellentResult.AssemblyInfo.cs
+D:\Иван не пипай !\C# SoftUni\03.Conditional Statements\03.Conditional Statements\01.ExcellentResult\obj\Debug\netcoreapp3.1\01.ExcellentResult.csproj.CoreCompileInputs.cache
+D:\Иван не пипай !\C# SoftUni\03.Conditional Statements\03.Conditional Statements\01.ExcellentResult\obj\Debug\netcoreapp3.1\01.ExcellentResult.dll
+D:\Иван не пипай !\C# SoftUni\03.Conditional Statements\03.Conditional Statements\01.ExcellentResult\obj\Debug\netcoreapp3.1\01.ExcellentResult.pdb
+D:\Иван не пипай !\C# SoftUni\03.Conditional Statements\03.Conditional Statements\01.ExcellentResult\obj\Debug\netcoreapp3.1\01.ExcellentResult.genruntimeconfig.cache
