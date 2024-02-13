@@ -1,0 +1,14 @@
+D:\Иван не пипай !\C# SoftUni\04.ExerciseConditionalStatements\ConditionalStatementsExercise\01.SumSeconds\bin\Debug\netcoreapp3.1\01.SumSeconds.exe
+D:\Иван не пипай !\C# SoftUni\04.ExerciseConditionalStatements\ConditionalStatementsExercise\01.SumSeconds\bin\Debug\netcoreapp3.1\01.SumSeconds.deps.json
+D:\Иван не пипай !\C# SoftUni\04.ExerciseConditionalStatements\ConditionalStatementsExercise\01.SumSeconds\bin\Debug\netcoreapp3.1\01.SumSeconds.runtimeconfig.json
+D:\Иван не пипай !\C# SoftUni\04.ExerciseConditionalStatements\ConditionalStatementsExercise\01.SumSeconds\bin\Debug\netcoreapp3.1\01.SumSeconds.runtimeconfig.dev.json
+D:\Иван не пипай !\C# SoftUni\04.ExerciseConditionalStatements\ConditionalStatementsExercise\01.SumSeconds\bin\Debug\netcoreapp3.1\01.SumSeconds.dll
+D:\Иван не пипай !\C# SoftUni\04.ExerciseConditionalStatements\ConditionalStatementsExercise\01.SumSeconds\bin\Debug\netcoreapp3.1\01.SumSeconds.pdb
+D:\Иван не пипай !\C# SoftUni\04.ExerciseConditionalStatements\ConditionalStatementsExercise\01.SumSeconds\obj\Debug\netcoreapp3.1\01.SumSeconds.csproj.AssemblyReference.cache
+D:\Иван не пипай !\C# SoftUni\04.ExerciseConditionalStatements\ConditionalStatementsExercise\01.SumSeconds\obj\Debug\netcoreapp3.1\01.SumSeconds.GeneratedMSBuildEditorConfig.editorconfig
+D:\Иван не пипай !\C# SoftUni\04.ExerciseConditionalStatements\ConditionalStatementsExercise\01.SumSeconds\obj\Debug\netcoreapp3.1\01.SumSeconds.AssemblyInfoInputs.cache
+D:\Иван не пипай !\C# SoftUni\04.ExerciseConditionalStatements\ConditionalStatementsExercise\01.SumSeconds\obj\Debug\netcoreapp3.1\01.SumSeconds.AssemblyInfo.cs
+D:\Иван не пипай !\C# SoftUni\04.ExerciseConditionalStatements\ConditionalStatementsExercise\01.SumSeconds\obj\Debug\netcoreapp3.1\01.SumSeconds.csproj.CoreCompileInputs.cache
+D:\Иван не пипай !\C# SoftUni\04.ExerciseConditionalStatements\ConditionalStatementsExercise\01.SumSeconds\obj\Debug\netcoreapp3.1\01.SumSeconds.dll
+D:\Иван не пипай !\C# SoftUni\04.ExerciseConditionalStatements\ConditionalStatementsExercise\01.SumSeconds\obj\Debug\netcoreapp3.1\01.SumSeconds.pdb
+D:\Иван не пипай !\C# SoftUni\04.ExerciseConditionalStatements\ConditionalStatementsExercise\01.SumSeconds\obj\Debug\netcoreapp3.1\01.SumSeconds.genruntimeconfig.cache

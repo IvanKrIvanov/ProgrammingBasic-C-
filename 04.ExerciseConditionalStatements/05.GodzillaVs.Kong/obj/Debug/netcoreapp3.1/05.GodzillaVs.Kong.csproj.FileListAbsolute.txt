@@ -1,0 +1,5 @@
+D:\Иван не пипай !\C# SoftUni\04.ExerciseConditionalStatements\ConditionalStatementsExercise\05.GodzillaVs.Kong\obj\Debug\netcoreapp3.1\05.GodzillaVs.Kong.csproj.AssemblyReference.cache
+D:\Иван не пипай !\C# SoftUni\04.ExerciseConditionalStatements\ConditionalStatementsExercise\05.GodzillaVs.Kong\obj\Debug\netcoreapp3.1\05.GodzillaVs.Kong.GeneratedMSBuildEditorConfig.editorconfig
+D:\Иван не пипай !\C# SoftUni\04.ExerciseConditionalStatements\ConditionalStatementsExercise\05.GodzillaVs.Kong\obj\Debug\netcoreapp3.1\05.GodzillaVs.Kong.AssemblyInfoInputs.cache
+D:\Иван не пипай !\C# SoftUni\04.ExerciseConditionalStatements\ConditionalStatementsExercise\05.GodzillaVs.Kong\obj\Debug\netcoreapp3.1\05.GodzillaVs.Kong.AssemblyInfo.cs
+D:\Иван не пипай !\C# SoftUni\04.ExerciseConditionalStatements\ConditionalStatementsExercise\05.GodzillaVs.Kong\obj\Debug\netcoreapp3.1\05.GodzillaVs.Kong.csproj.CoreCompileInputs.cache

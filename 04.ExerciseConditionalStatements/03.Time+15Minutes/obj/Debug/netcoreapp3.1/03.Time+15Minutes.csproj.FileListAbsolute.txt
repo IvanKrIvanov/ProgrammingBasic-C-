@@ -1,0 +1,14 @@
+D:\Иван не пипай !\C# SoftUni\04.ExerciseConditionalStatements\ConditionalStatementsExercise\03.Time+15Minutes\bin\Debug\netcoreapp3.1\03.Time+15Minutes.exe
+D:\Иван не пипай !\C# SoftUni\04.ExerciseConditionalStatements\ConditionalStatementsExercise\03.Time+15Minutes\bin\Debug\netcoreapp3.1\03.Time+15Minutes.deps.json
+D:\Иван не пипай !\C# SoftUni\04.ExerciseConditionalStatements\ConditionalStatementsExercise\03.Time+15Minutes\bin\Debug\netcoreapp3.1\03.Time+15Minutes.runtimeconfig.json
+D:\Иван не пипай !\C# SoftUni\04.ExerciseConditionalStatements\ConditionalStatementsExercise\03.Time+15Minutes\bin\Debug\netcoreapp3.1\03.Time+15Minutes.runtimeconfig.dev.json
+D:\Иван не пипай !\C# SoftUni\04.ExerciseConditionalStatements\ConditionalStatementsExercise\03.Time+15Minutes\bin\Debug\netcoreapp3.1\03.Time+15Minutes.dll
+D:\Иван не пипай !\C# SoftUni\04.ExerciseConditionalStatements\ConditionalStatementsExercise\03.Time+15Minutes\bin\Debug\netcoreapp3.1\03.Time+15Minutes.pdb
+D:\Иван не пипай !\C# SoftUni\04.ExerciseConditionalStatements\ConditionalStatementsExercise\03.Time+15Minutes\obj\Debug\netcoreapp3.1\03.Time+15Minutes.csproj.AssemblyReference.cache
+D:\Иван не пипай !\C# SoftUni\04.ExerciseConditionalStatements\ConditionalStatementsExercise\03.Time+15Minutes\obj\Debug\netcoreapp3.1\03.Time+15Minutes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Иван не пипай !\C# SoftUni\04.ExerciseConditionalStatements\ConditionalStatementsExercise\03.Time+15Minutes\obj\Debug\netcoreapp3.1\03.Time+15Minutes.AssemblyInfoInputs.cache
+D:\Иван не пипай !\C# SoftUni\04.ExerciseConditionalStatements\ConditionalStatementsExercise\03.Time+15Minutes\obj\Debug\netcoreapp3.1\03.Time+15Minutes.AssemblyInfo.cs
+D:\Иван не пипай !\C# SoftUni\04.ExerciseConditionalStatements\ConditionalStatementsExercise\03.Time+15Minutes\obj\Debug\netcoreapp3.1\03.Time+15Minutes.csproj.CoreCompileInputs.cache
+D:\Иван не пипай !\C# SoftUni\04.ExerciseConditionalStatements\ConditionalStatementsExercise\03.Time+15Minutes\obj\Debug\netcoreapp3.1\03.Time+15Minutes.dll
+D:\Иван не пипай !\C# SoftUni\04.ExerciseConditionalStatements\ConditionalStatementsExercise\03.Time+15Minutes\obj\Debug\netcoreapp3.1\03.Time+15Minutes.pdb
+D:\Иван не пипай !\C# SoftUni\04.ExerciseConditionalStatements\ConditionalStatementsExercise\03.Time+15Minutes\obj\Debug\netcoreapp3.1\03.Time+15Minutes.genruntimeconfig.cache
