@@ -1,0 +1,14 @@
+D:\Иван не пипай !\C# SoftUni\05.ConditionalStatementsAdvanced\ConditionalStatementsAdvanced\07.WorkingHours\bin\Debug\netcoreapp3.1\07.WorkingHours.exe
+D:\Иван не пипай !\C# SoftUni\05.ConditionalStatementsAdvanced\ConditionalStatementsAdvanced\07.WorkingHours\bin\Debug\netcoreapp3.1\07.WorkingHours.deps.json
+D:\Иван не пипай !\C# SoftUni\05.ConditionalStatementsAdvanced\ConditionalStatementsAdvanced\07.WorkingHours\bin\Debug\netcoreapp3.1\07.WorkingHours.runtimeconfig.json
+D:\Иван не пипай !\C# SoftUni\05.ConditionalStatementsAdvanced\ConditionalStatementsAdvanced\07.WorkingHours\bin\Debug\netcoreapp3.1\07.WorkingHours.runtimeconfig.dev.json
+D:\Иван не пипай !\C# SoftUni\05.ConditionalStatementsAdvanced\ConditionalStatementsAdvanced\07.WorkingHours\bin\Debug\netcoreapp3.1\07.WorkingHours.dll
+D:\Иван не пипай !\C# SoftUni\05.ConditionalStatementsAdvanced\ConditionalStatementsAdvanced\07.WorkingHours\bin\Debug\netcoreapp3.1\07.WorkingHours.pdb
+D:\Иван не пипай !\C# SoftUni\05.ConditionalStatementsAdvanced\ConditionalStatementsAdvanced\07.WorkingHours\obj\Debug\netcoreapp3.1\07.WorkingHours.csproj.AssemblyReference.cache
+D:\Иван не пипай !\C# SoftUni\05.ConditionalStatementsAdvanced\ConditionalStatementsAdvanced\07.WorkingHours\obj\Debug\netcoreapp3.1\07.WorkingHours.GeneratedMSBuildEditorConfig.editorconfig
+D:\Иван не пипай !\C# SoftUni\05.ConditionalStatementsAdvanced\ConditionalStatementsAdvanced\07.WorkingHours\obj\Debug\netcoreapp3.1\07.WorkingHours.AssemblyInfoInputs.cache
+D:\Иван не пипай !\C# SoftUni\05.ConditionalStatementsAdvanced\ConditionalStatementsAdvanced\07.WorkingHours\obj\Debug\netcoreapp3.1\07.WorkingHours.AssemblyInfo.cs
+D:\Иван не пипай !\C# SoftUni\05.ConditionalStatementsAdvanced\ConditionalStatementsAdvanced\07.WorkingHours\obj\Debug\netcoreapp3.1\07.WorkingHours.csproj.CoreCompileInputs.cache
+D:\Иван не пипай !\C# SoftUni\05.ConditionalStatementsAdvanced\ConditionalStatementsAdvanced\07.WorkingHours\obj\Debug\netcoreapp3.1\07.WorkingHours.dll
+D:\Иван не пипай !\C# SoftUni\05.ConditionalStatementsAdvanced\ConditionalStatementsAdvanced\07.WorkingHours\obj\Debug\netcoreapp3.1\07.WorkingHours.pdb
+D:\Иван не пипай !\C# SoftUni\05.ConditionalStatementsAdvanced\ConditionalStatementsAdvanced\07.WorkingHours\obj\Debug\netcoreapp3.1\07.WorkingHours.genruntimeconfig.cache

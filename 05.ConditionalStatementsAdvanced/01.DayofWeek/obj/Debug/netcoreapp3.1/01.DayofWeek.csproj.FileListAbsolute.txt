@@ -1,0 +1,14 @@
+D:\Иван не пипай !\C# SoftUni\05.ConditionalStatementsAdvanced\ConditionalStatementsAdvanced\01.DayofWeek\bin\Debug\netcoreapp3.1\01.DayofWeek.exe
+D:\Иван не пипай !\C# SoftUni\05.ConditionalStatementsAdvanced\ConditionalStatementsAdvanced\01.DayofWeek\bin\Debug\netcoreapp3.1\01.DayofWeek.deps.json
+D:\Иван не пипай !\C# SoftUni\05.ConditionalStatementsAdvanced\ConditionalStatementsAdvanced\01.DayofWeek\bin\Debug\netcoreapp3.1\01.DayofWeek.runtimeconfig.json
+D:\Иван не пипай !\C# SoftUni\05.ConditionalStatementsAdvanced\ConditionalStatementsAdvanced\01.DayofWeek\bin\Debug\netcoreapp3.1\01.DayofWeek.runtimeconfig.dev.json
+D:\Иван не пипай !\C# SoftUni\05.ConditionalStatementsAdvanced\ConditionalStatementsAdvanced\01.DayofWeek\bin\Debug\netcoreapp3.1\01.DayofWeek.dll
+D:\Иван не пипай !\C# SoftUni\05.ConditionalStatementsAdvanced\ConditionalStatementsAdvanced\01.DayofWeek\bin\Debug\netcoreapp3.1\01.DayofWeek.pdb
+D:\Иван не пипай !\C# SoftUni\05.ConditionalStatementsAdvanced\ConditionalStatementsAdvanced\01.DayofWeek\obj\Debug\netcoreapp3.1\01.DayofWeek.csproj.AssemblyReference.cache
+D:\Иван не пипай !\C# SoftUni\05.ConditionalStatementsAdvanced\ConditionalStatementsAdvanced\01.DayofWeek\obj\Debug\netcoreapp3.1\01.DayofWeek.GeneratedMSBuildEditorConfig.editorconfig
+D:\Иван не пипай !\C# SoftUni\05.ConditionalStatementsAdvanced\ConditionalStatementsAdvanced\01.DayofWeek\obj\Debug\netcoreapp3.1\01.DayofWeek.AssemblyInfoInputs.cache
+D:\Иван не пипай !\C# SoftUni\05.ConditionalStatementsAdvanced\ConditionalStatementsAdvanced\01.DayofWeek\obj\Debug\netcoreapp3.1\01.DayofWeek.AssemblyInfo.cs
+D:\Иван не пипай !\C# SoftUni\05.ConditionalStatementsAdvanced\ConditionalStatementsAdvanced\01.DayofWeek\obj\Debug\netcoreapp3.1\01.DayofWeek.csproj.CoreCompileInputs.cache
+D:\Иван не пипай !\C# SoftUni\05.ConditionalStatementsAdvanced\ConditionalStatementsAdvanced\01.DayofWeek\obj\Debug\netcoreapp3.1\01.DayofWeek.dll
+D:\Иван не пипай !\C# SoftUni\05.ConditionalStatementsAdvanced\ConditionalStatementsAdvanced\01.DayofWeek\obj\Debug\netcoreapp3.1\01.DayofWeek.pdb
+D:\Иван не пипай !\C# SoftUni\05.ConditionalStatementsAdvanced\ConditionalStatementsAdvanced\01.DayofWeek\obj\Debug\netcoreapp3.1\01.DayofWeek.genruntimeconfig.cache
