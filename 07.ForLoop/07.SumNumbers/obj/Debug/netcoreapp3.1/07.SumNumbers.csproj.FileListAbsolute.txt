@@ -1,0 +1,14 @@
+D:\Иван не пипай !\C# SoftUni\07.ForLoop\ForLoop\07.SumNumbers\bin\Debug\netcoreapp3.1\07.SumNumbers.exe
+D:\Иван не пипай !\C# SoftUni\07.ForLoop\ForLoop\07.SumNumbers\bin\Debug\netcoreapp3.1\07.SumNumbers.deps.json
+D:\Иван не пипай !\C# SoftUni\07.ForLoop\ForLoop\07.SumNumbers\bin\Debug\netcoreapp3.1\07.SumNumbers.runtimeconfig.json
+D:\Иван не пипай !\C# SoftUni\07.ForLoop\ForLoop\07.SumNumbers\bin\Debug\netcoreapp3.1\07.SumNumbers.runtimeconfig.dev.json
+D:\Иван не пипай !\C# SoftUni\07.ForLoop\ForLoop\07.SumNumbers\bin\Debug\netcoreapp3.1\07.SumNumbers.dll
+D:\Иван не пипай !\C# SoftUni\07.ForLoop\ForLoop\07.SumNumbers\bin\Debug\netcoreapp3.1\07.SumNumbers.pdb
+D:\Иван не пипай !\C# SoftUni\07.ForLoop\ForLoop\07.SumNumbers\obj\Debug\netcoreapp3.1\07.SumNumbers.csproj.AssemblyReference.cache
+D:\Иван не пипай !\C# SoftUni\07.ForLoop\ForLoop\07.SumNumbers\obj\Debug\netcoreapp3.1\07.SumNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Иван не пипай !\C# SoftUni\07.ForLoop\ForLoop\07.SumNumbers\obj\Debug\netcoreapp3.1\07.SumNumbers.AssemblyInfoInputs.cache
+D:\Иван не пипай !\C# SoftUni\07.ForLoop\ForLoop\07.SumNumbers\obj\Debug\netcoreapp3.1\07.SumNumbers.AssemblyInfo.cs
+D:\Иван не пипай !\C# SoftUni\07.ForLoop\ForLoop\07.SumNumbers\obj\Debug\netcoreapp3.1\07.SumNumbers.csproj.CoreCompileInputs.cache
+D:\Иван не пипай !\C# SoftUni\07.ForLoop\ForLoop\07.SumNumbers\obj\Debug\netcoreapp3.1\07.SumNumbers.dll
+D:\Иван не пипай !\C# SoftUni\07.ForLoop\ForLoop\07.SumNumbers\obj\Debug\netcoreapp3.1\07.SumNumbers.pdb
+D:\Иван не пипай !\C# SoftUni\07.ForLoop\ForLoop\07.SumNumbers\obj\Debug\netcoreapp3.1\07.SumNumbers.genruntimeconfig.cache

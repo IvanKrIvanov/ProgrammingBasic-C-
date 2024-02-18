@@ -1,0 +1,14 @@
+D:\Иван не пипай !\C# SoftUni\07.ForLoop\ForLoop\06.VowelsSum\bin\Debug\netcoreapp3.1\06.VowelsSum.exe
+D:\Иван не пипай !\C# SoftUni\07.ForLoop\ForLoop\06.VowelsSum\bin\Debug\netcoreapp3.1\06.VowelsSum.deps.json
+D:\Иван не пипай !\C# SoftUni\07.ForLoop\ForLoop\06.VowelsSum\bin\Debug\netcoreapp3.1\06.VowelsSum.runtimeconfig.json
+D:\Иван не пипай !\C# SoftUni\07.ForLoop\ForLoop\06.VowelsSum\bin\Debug\netcoreapp3.1\06.VowelsSum.runtimeconfig.dev.json
+D:\Иван не пипай !\C# SoftUni\07.ForLoop\ForLoop\06.VowelsSum\bin\Debug\netcoreapp3.1\06.VowelsSum.dll
+D:\Иван не пипай !\C# SoftUni\07.ForLoop\ForLoop\06.VowelsSum\bin\Debug\netcoreapp3.1\06.VowelsSum.pdb
+D:\Иван не пипай !\C# SoftUni\07.ForLoop\ForLoop\06.VowelsSum\obj\Debug\netcoreapp3.1\06.VowelsSum.csproj.AssemblyReference.cache
+D:\Иван не пипай !\C# SoftUni\07.ForLoop\ForLoop\06.VowelsSum\obj\Debug\netcoreapp3.1\06.VowelsSum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Иван не пипай !\C# SoftUni\07.ForLoop\ForLoop\06.VowelsSum\obj\Debug\netcoreapp3.1\06.VowelsSum.AssemblyInfoInputs.cache
+D:\Иван не пипай !\C# SoftUni\07.ForLoop\ForLoop\06.VowelsSum\obj\Debug\netcoreapp3.1\06.VowelsSum.AssemblyInfo.cs
+D:\Иван не пипай !\C# SoftUni\07.ForLoop\ForLoop\06.VowelsSum\obj\Debug\netcoreapp3.1\06.VowelsSum.csproj.CoreCompileInputs.cache
+D:\Иван не пипай !\C# SoftUni\07.ForLoop\ForLoop\06.VowelsSum\obj\Debug\netcoreapp3.1\06.VowelsSum.dll
+D:\Иван не пипай !\C# SoftUni\07.ForLoop\ForLoop\06.VowelsSum\obj\Debug\netcoreapp3.1\06.VowelsSum.pdb
+D:\Иван не пипай !\C# SoftUni\07.ForLoop\ForLoop\06.VowelsSum\obj\Debug\netcoreapp3.1\06.VowelsSum.genruntimeconfig.cache

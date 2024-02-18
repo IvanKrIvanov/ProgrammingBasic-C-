@@ -1,0 +1,14 @@
+D:\Иван не пипай !\C# SoftUni\07.ForLoop\ForLoop\03.Numbers1.NStep3\bin\Debug\netcoreapp3.1\03.Numbers1.NStep3.exe
+D:\Иван не пипай !\C# SoftUni\07.ForLoop\ForLoop\03.Numbers1.NStep3\bin\Debug\netcoreapp3.1\03.Numbers1.NStep3.deps.json
+D:\Иван не пипай !\C# SoftUni\07.ForLoop\ForLoop\03.Numbers1.NStep3\bin\Debug\netcoreapp3.1\03.Numbers1.NStep3.runtimeconfig.json
+D:\Иван не пипай !\C# SoftUni\07.ForLoop\ForLoop\03.Numbers1.NStep3\bin\Debug\netcoreapp3.1\03.Numbers1.NStep3.runtimeconfig.dev.json
+D:\Иван не пипай !\C# SoftUni\07.ForLoop\ForLoop\03.Numbers1.NStep3\bin\Debug\netcoreapp3.1\03.Numbers1.NStep3.dll
+D:\Иван не пипай !\C# SoftUni\07.ForLoop\ForLoop\03.Numbers1.NStep3\bin\Debug\netcoreapp3.1\03.Numbers1.NStep3.pdb
+D:\Иван не пипай !\C# SoftUni\07.ForLoop\ForLoop\03.Numbers1.NStep3\obj\Debug\netcoreapp3.1\03.Numbers1.NStep3.csproj.AssemblyReference.cache
+D:\Иван не пипай !\C# SoftUni\07.ForLoop\ForLoop\03.Numbers1.NStep3\obj\Debug\netcoreapp3.1\03.Numbers1.NStep3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Иван не пипай !\C# SoftUni\07.ForLoop\ForLoop\03.Numbers1.NStep3\obj\Debug\netcoreapp3.1\03.Numbers1.NStep3.AssemblyInfoInputs.cache
+D:\Иван не пипай !\C# SoftUni\07.ForLoop\ForLoop\03.Numbers1.NStep3\obj\Debug\netcoreapp3.1\03.Numbers1.NStep3.AssemblyInfo.cs
+D:\Иван не пипай !\C# SoftUni\07.ForLoop\ForLoop\03.Numbers1.NStep3\obj\Debug\netcoreapp3.1\03.Numbers1.NStep3.csproj.CoreCompileInputs.cache
+D:\Иван не пипай !\C# SoftUni\07.ForLoop\ForLoop\03.Numbers1.NStep3\obj\Debug\netcoreapp3.1\03.Numbers1.NStep3.dll
+D:\Иван не пипай !\C# SoftUni\07.ForLoop\ForLoop\03.Numbers1.NStep3\obj\Debug\netcoreapp3.1\03.Numbers1.NStep3.pdb
+D:\Иван не пипай !\C# SoftUni\07.ForLoop\ForLoop\03.Numbers1.NStep3\obj\Debug\netcoreapp3.1\03.Numbers1.NStep3.genruntimeconfig.cache

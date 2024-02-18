@@ -1,0 +1,14 @@
+D:\Иван не пипай !\C# SoftUni\07.ForLoop\ForLoop\05.CharacterSequence\bin\Debug\netcoreapp3.1\05.CharacterSequence.exe
+D:\Иван не пипай !\C# SoftUni\07.ForLoop\ForLoop\05.CharacterSequence\bin\Debug\netcoreapp3.1\05.CharacterSequence.deps.json
+D:\Иван не пипай !\C# SoftUni\07.ForLoop\ForLoop\05.CharacterSequence\bin\Debug\netcoreapp3.1\05.CharacterSequence.runtimeconfig.json
+D:\Иван не пипай !\C# SoftUni\07.ForLoop\ForLoop\05.CharacterSequence\bin\Debug\netcoreapp3.1\05.CharacterSequence.runtimeconfig.dev.json
+D:\Иван не пипай !\C# SoftUni\07.ForLoop\ForLoop\05.CharacterSequence\bin\Debug\netcoreapp3.1\05.CharacterSequence.dll
+D:\Иван не пипай !\C# SoftUni\07.ForLoop\ForLoop\05.CharacterSequence\bin\Debug\netcoreapp3.1\05.CharacterSequence.pdb
+D:\Иван не пипай !\C# SoftUni\07.ForLoop\ForLoop\05.CharacterSequence\obj\Debug\netcoreapp3.1\05.CharacterSequence.csproj.AssemblyReference.cache
+D:\Иван не пипай !\C# SoftUni\07.ForLoop\ForLoop\05.CharacterSequence\obj\Debug\netcoreapp3.1\05.CharacterSequence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Иван не пипай !\C# SoftUni\07.ForLoop\ForLoop\05.CharacterSequence\obj\Debug\netcoreapp3.1\05.CharacterSequence.AssemblyInfoInputs.cache
+D:\Иван не пипай !\C# SoftUni\07.ForLoop\ForLoop\05.CharacterSequence\obj\Debug\netcoreapp3.1\05.CharacterSequence.AssemblyInfo.cs
+D:\Иван не пипай !\C# SoftUni\07.ForLoop\ForLoop\05.CharacterSequence\obj\Debug\netcoreapp3.1\05.CharacterSequence.csproj.CoreCompileInputs.cache
+D:\Иван не пипай !\C# SoftUni\07.ForLoop\ForLoop\05.CharacterSequence\obj\Debug\netcoreapp3.1\05.CharacterSequence.dll
+D:\Иван не пипай !\C# SoftUni\07.ForLoop\ForLoop\05.CharacterSequence\obj\Debug\netcoreapp3.1\05.CharacterSequence.pdb
+D:\Иван не пипай !\C# SoftUni\07.ForLoop\ForLoop\05.CharacterSequence\obj\Debug\netcoreapp3.1\05.CharacterSequence.genruntimeconfig.cache
