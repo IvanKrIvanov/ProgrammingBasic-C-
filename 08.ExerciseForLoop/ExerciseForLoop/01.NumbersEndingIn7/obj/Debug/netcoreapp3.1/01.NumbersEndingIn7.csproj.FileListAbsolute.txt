@@ -1,0 +1,14 @@
+D:\Иван не пипай !\C# SoftUni\08.ExerciseForLoop\ExerciseForLoop\ExerciseForLoop\01.NumbersEndingIn7\bin\Debug\netcoreapp3.1\01.NumbersEndingIn7.exe
+D:\Иван не пипай !\C# SoftUni\08.ExerciseForLoop\ExerciseForLoop\ExerciseForLoop\01.NumbersEndingIn7\bin\Debug\netcoreapp3.1\01.NumbersEndingIn7.deps.json
+D:\Иван не пипай !\C# SoftUni\08.ExerciseForLoop\ExerciseForLoop\ExerciseForLoop\01.NumbersEndingIn7\bin\Debug\netcoreapp3.1\01.NumbersEndingIn7.runtimeconfig.json
+D:\Иван не пипай !\C# SoftUni\08.ExerciseForLoop\ExerciseForLoop\ExerciseForLoop\01.NumbersEndingIn7\bin\Debug\netcoreapp3.1\01.NumbersEndingIn7.runtimeconfig.dev.json
+D:\Иван не пипай !\C# SoftUni\08.ExerciseForLoop\ExerciseForLoop\ExerciseForLoop\01.NumbersEndingIn7\bin\Debug\netcoreapp3.1\01.NumbersEndingIn7.dll
+D:\Иван не пипай !\C# SoftUni\08.ExerciseForLoop\ExerciseForLoop\ExerciseForLoop\01.NumbersEndingIn7\bin\Debug\netcoreapp3.1\01.NumbersEndingIn7.pdb
+D:\Иван не пипай !\C# SoftUni\08.ExerciseForLoop\ExerciseForLoop\ExerciseForLoop\01.NumbersEndingIn7\obj\Debug\netcoreapp3.1\01.NumbersEndingIn7.csproj.AssemblyReference.cache
+D:\Иван не пипай !\C# SoftUni\08.ExerciseForLoop\ExerciseForLoop\ExerciseForLoop\01.NumbersEndingIn7\obj\Debug\netcoreapp3.1\01.NumbersEndingIn7.GeneratedMSBuildEditorConfig.editorconfig
+D:\Иван не пипай !\C# SoftUni\08.ExerciseForLoop\ExerciseForLoop\ExerciseForLoop\01.NumbersEndingIn7\obj\Debug\netcoreapp3.1\01.NumbersEndingIn7.AssemblyInfoInputs.cache
+D:\Иван не пипай !\C# SoftUni\08.ExerciseForLoop\ExerciseForLoop\ExerciseForLoop\01.NumbersEndingIn7\obj\Debug\netcoreapp3.1\01.NumbersEndingIn7.AssemblyInfo.cs
+D:\Иван не пипай !\C# SoftUni\08.ExerciseForLoop\ExerciseForLoop\ExerciseForLoop\01.NumbersEndingIn7\obj\Debug\netcoreapp3.1\01.NumbersEndingIn7.csproj.CoreCompileInputs.cache
+D:\Иван не пипай !\C# SoftUni\08.ExerciseForLoop\ExerciseForLoop\ExerciseForLoop\01.NumbersEndingIn7\obj\Debug\netcoreapp3.1\01.NumbersEndingIn7.dll
+D:\Иван не пипай !\C# SoftUni\08.ExerciseForLoop\ExerciseForLoop\ExerciseForLoop\01.NumbersEndingIn7\obj\Debug\netcoreapp3.1\01.NumbersEndingIn7.pdb
+D:\Иван не пипай !\C# SoftUni\08.ExerciseForLoop\ExerciseForLoop\ExerciseForLoop\01.NumbersEndingIn7\obj\Debug\netcoreapp3.1\01.NumbersEndingIn7.genruntimeconfig.cache
