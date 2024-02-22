@@ -1,0 +1,14 @@
+D:\Иван не пипай !\C# SoftUni\09.WhileLoop\WhileLoop\01.ReadText\bin\Debug\netcoreapp3.1\01.ReadText.exe
+D:\Иван не пипай !\C# SoftUni\09.WhileLoop\WhileLoop\01.ReadText\bin\Debug\netcoreapp3.1\01.ReadText.deps.json
+D:\Иван не пипай !\C# SoftUni\09.WhileLoop\WhileLoop\01.ReadText\bin\Debug\netcoreapp3.1\01.ReadText.runtimeconfig.json
+D:\Иван не пипай !\C# SoftUni\09.WhileLoop\WhileLoop\01.ReadText\bin\Debug\netcoreapp3.1\01.ReadText.runtimeconfig.dev.json
+D:\Иван не пипай !\C# SoftUni\09.WhileLoop\WhileLoop\01.ReadText\bin\Debug\netcoreapp3.1\01.ReadText.dll
+D:\Иван не пипай !\C# SoftUni\09.WhileLoop\WhileLoop\01.ReadText\bin\Debug\netcoreapp3.1\01.ReadText.pdb
+D:\Иван не пипай !\C# SoftUni\09.WhileLoop\WhileLoop\01.ReadText\obj\Debug\netcoreapp3.1\01.ReadText.csproj.AssemblyReference.cache
+D:\Иван не пипай !\C# SoftUni\09.WhileLoop\WhileLoop\01.ReadText\obj\Debug\netcoreapp3.1\01.ReadText.GeneratedMSBuildEditorConfig.editorconfig
+D:\Иван не пипай !\C# SoftUni\09.WhileLoop\WhileLoop\01.ReadText\obj\Debug\netcoreapp3.1\01.ReadText.AssemblyInfoInputs.cache
+D:\Иван не пипай !\C# SoftUni\09.WhileLoop\WhileLoop\01.ReadText\obj\Debug\netcoreapp3.1\01.ReadText.AssemblyInfo.cs
+D:\Иван не пипай !\C# SoftUni\09.WhileLoop\WhileLoop\01.ReadText\obj\Debug\netcoreapp3.1\01.ReadText.csproj.CoreCompileInputs.cache
+D:\Иван не пипай !\C# SoftUni\09.WhileLoop\WhileLoop\01.ReadText\obj\Debug\netcoreapp3.1\01.ReadText.dll
+D:\Иван не пипай !\C# SoftUni\09.WhileLoop\WhileLoop\01.ReadText\obj\Debug\netcoreapp3.1\01.ReadText.pdb
+D:\Иван не пипай !\C# SoftUni\09.WhileLoop\WhileLoop\01.ReadText\obj\Debug\netcoreapp3.1\01.ReadText.genruntimeconfig.cache
